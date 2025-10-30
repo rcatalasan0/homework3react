@@ -1,5 +1,5 @@
 {
-  "homepage": "https://rcatalasan0.github.io/repository-name",
+  "homepage": "https://rcatalasan0.github.io/homework3react",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -38,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
